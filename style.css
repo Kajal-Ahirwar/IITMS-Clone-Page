@@ -1,0 +1,142 @@
+/* 
+#options:hover{
+    text-decoration: underline overline;
+	color: #777777;
+	font-size: 30px;
+} */
+
+*{
+	margin: 0;
+	padding: 0;
+}
+
+.main {
+	padding-top: 10px;
+	height: 50px;
+	font-size: 20px;
+	background-color: #333333;
+	color: white;
+	display: flex;
+	justify-content: right;
+	align-items: center;
+}
+
+#product {
+	margin-left: 400px;
+}
+
+#Globe {
+	height: 30px;
+	width: 200px;
+	font-weight: 1rem;
+	background-color: #33AFE4;
+	margin-left: 7px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+#globe {
+	margin-right: 8px;
+}
+
+#partner {
+	height: 30px;
+	width: 200px;
+	font-weight: 1rem;
+	background-color: #66CC00;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+#handlogo {
+	margin-right: 10px;
+	margin-left: 10px;
+	font-size: 25px;
+}
+
+#Hiring {
+	height: 30px;
+	width: 180px;
+	font-weight: 1rem;
+	margin-left: 0px;
+	background-color: #33AFE4;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+#bullhorn {
+	margin-right: 6px;
+	font-size: large;
+}
+
+.exploreUs {
+	height: 1000px;
+	background-image: url("IITMS_banner-min.jpg");
+}
+
+#insider {
+	display: flex;
+	height: 200px;
+	margin-left: 30px;
+	justify-content: left;
+	align-items: center;
+	font-size: 80px;
+	color: #FFFFFF;
+}
+
+#insider li {
+	color: white;
+}
+
+#photo1 {
+	height: 170px;
+	width: 170px;
+	background-image: url("PMKhodke.webp");
+	background-size: cover;
+	border-radius: 15px;
+	margin-left: 70px;
+	margin-top: 25px;
+}
+
+#photo2 {
+	height: 170px;
+	width: 170px;
+	background-image: url("SadanandGokhale.webp");
+	background-size: cover;
+	border-radius: 15px;
+	margin-left: 170px;
+	margin-top: 25px;
+}
+
+#photo3 {
+	height: 170px;
+	width: 170px;
+	background-image: url("GopalMugeraya.webp");
+	background-size: cover;
+	border-radius: 15px;
+	margin-left: 170px;
+	margin-top: 25px;
+}
+
+#buttons button {
+	height: 45px;
+	border-radius: 50px;
+	font-size: 15px;
+}
+
+.arrow{
+	margin-right: 10px; 
+	color: #23BBEE;
+}
+
+.tabs:hover{
+    font-size: 23px;
+	cursor: pointer; 
+}
+
+button:hover{
+	cursor: pointer;
+}
